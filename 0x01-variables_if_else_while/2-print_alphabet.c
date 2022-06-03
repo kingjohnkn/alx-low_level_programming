@@ -10,7 +10,7 @@ int main(void)
 	int ch;
 
 	/* print lowercase letters */
-	for (ch = 'a'; ch <= 'z'; ch++)
+	for (ch = 'a'; ch <= 'z';)
 	{
 		putchar(ch);
 		putchar('\n');
