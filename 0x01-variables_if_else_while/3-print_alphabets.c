@@ -15,10 +15,10 @@ int main(void)
 		putchar(ch);
 	}
 	/* print UPPERCASE letters */
-        for (ch = 'A'; ch <= 'Z'; ch++)
-        {
+	for (ch = 'A'; ch <= 'Z'; ch++)
+	{
 		putchar(ch);
-        }
+	}
 	putchar('\n');
 	return (0);
 }
