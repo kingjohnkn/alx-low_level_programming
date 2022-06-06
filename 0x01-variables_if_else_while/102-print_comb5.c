@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Prints numbers between 012 to 789.
+ * main - prints all possible combinations of two two-digit numbers.
  *
  * Return: Always 0 (Success)
  */
